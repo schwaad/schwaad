@@ -9,7 +9,7 @@
 
 🇺🇸: I am 19 years old, I am part of the Tutorial Education Project of the Computer Science course (PETCC) and I was always in love with solving logical problems. I also have a dog.
 
-[]
+![](tiba-perdido.png)
 
 ---
 ## Interesses | Interests
