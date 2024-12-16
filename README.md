@@ -23,19 +23,6 @@
 🇺🇸: And also inter-disciplinary areas related with IT, like generative art (not AI, real artistic projects), educational technology, etc.
 
 ---
-## Competências de Programação | Programming skills
-### O que eu já sei | What I already know
-- C & C++ 
-- React 
-- Java 
-
-### O que estou aprendendo | What I am learning
-- NuxtJS
-- VueJS
-- Spring
-- Rust 
----
-
 
 
 <!---
