@@ -5,9 +5,9 @@
 
 ---
 ## Sobre mim | About me
-🇧🇷: Tenho 19 anos, sou bolsista do Projeto de Educação Tutorial do curso de Ciência da Computação e sempre fui apaixonado por resolução de problemas lógicos. Também tenho um cachorro.
+🇧🇷: Sou bolsista do Projeto de Educação Tutorial do curso de Ciência da Computação e sempre fui apaixonado por resolução de problemas lógicos. Também tenho um cachorro.
 
-🇺🇸: I am 19 years old, I am part of the Tutorial Education Project of the Computer Science course (PETCC) and I was always in love with solving logical problems. I also have a dog.
+🇺🇸: I am part of the Tutorial Education Project of the Computer Science course (PETCC) and I was always in love with solving logical problems. I also have a dog.
 
 ![](tiba-perdido.png)
 
@@ -18,9 +18,9 @@
 - Desenvolvimento de jogos | Game development 🎮
 - Matemática demonstrativa | Demonstrative mathematics 📝
 
-🇧🇷: E também âmbitos interdisciplinares relacionados com TI, como arte generativa (não IA, projetos artísticos de verdade), TI para educação, etc.
+🇧🇷: E também âmbitos interdisciplinares relacionados com TI, como arte generativa (não plágios feitos por IA, projetos artísticos de verdade), TI para educação, etc.
 
-🇺🇸: And also inter-disciplinary areas related with IT, like generative art (not AI, real artistic projects), educational technology, etc.
+🇺🇸: And also inter-disciplinary areas related with IT, like generative art (not AI plagiarism, real artistic projects), educational technology, etc.
 
 ---
 
