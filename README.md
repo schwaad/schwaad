@@ -18,9 +18,9 @@
 - Desenvolvimento de jogos | Game development 🎮
 - Matemática demonstrativa | Demonstrative mathematics 📝
 
-🇧🇷: E também âmbitos interdisciplinares relacionados com TI, como arte generativa (não plágios feitos por IA, projetos artísticos de verdade), TI para educação, etc.
+🇧🇷: E também âmbitos interdisciplinares relacionados com TI, como arte generativa, TI para educação, etc.
 
-🇺🇸: And also inter-disciplinary areas related with IT, like generative art (not AI plagiarism, real artistic projects), educational technology, etc.
+🇺🇸: And also inter-disciplinary areas related with IT, like generative art, educational technology, etc.
 
 ---
 
