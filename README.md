@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="./eu.jpeg"  />
-</div>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -17,15 +15,13 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with enphasis on Computer Science at the Federal University of Rio Grande do Norte.<br><br>- 🔭 I’m working as scholarship holder in the Tutorial Teaching Program of the Computer Science course.<br>- 📚 I'm currently learning Data Science and Machine Learning algorithms with Python (and at least trying on Rust!) and Software Development with Rust.<br>- 💻 My experience consists mostly of FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
+<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with enphasis on Computer Science at the Federal University of Rio Grande do Norte.<br><br>- 🔭 I’m working as a scholarship holder in the Tutorial Teaching Program of the Computer Science course.<br>- 📚 I'm currently learning Data Science and Machine Learning algorithms with Python (and at least trying with Rust!) and Software Development with Rust.<br>- 💻 My experience consists mostly of FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
 
 ###
 
@@ -48,6 +44,14 @@
 </div>
 
 ###
+
+<h3 align="left">Some cool sites!</h3>
+<ul>
+  <li><a href="https://www.arewelearningyet.com/" target="_blank">AreWeLearningYet?</a> - A WIP catalog of the state of Machine Learning in Rust</li>
+  <li><a href="https://schwaad.github.io/" target="_blank">My Personal Site!</a> - A simple but pretty site i made using Github Pages</li>
+  <li><a href="https://www.reddit.com/r/unixporn/" target="_blank">UnixPorn</a> - The reddit community of Unix-like Ricing!</li>
+  <li><a href="https://monkeytype.com/" target="_blank">MonkeyType</a> - Relax while you train your typing skills! (It even has code typing practice modes!)</li>
+</ul>
 
 <!---
 schwaad/schwaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
