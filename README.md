@@ -43,7 +43,7 @@
 <h3 align="left">Some cool sites!</h3>
 <ul>
   <li><a href="https://www.arewelearningyet.com/" target="_blank">AreWeLearningYet?</a> - A WIP catalog of the state of Machine Learning in Rust</li>
-  <li><a href="https://schwaad.github.io/" target="_blank">My Personal Site!</a> - A simple but pretty site i made using Github Pages</li>
+  <li><a href="https://schwaad.github.io/" target="_blank">My Personal Site (Not my Portifolio!) </a> - A simple but pretty site i made using Github Pages</li>
   <li><a href="https://www.reddit.com/r/unixporn/" target="_blank">UnixPorn</a> - The reddit community of Unix-like Ricing!</li>
   <li><a href="https://monkeytype.com/" target="_blank">MonkeyType</a> - Relax while you train your typing skills! (It even has code typing practice modes!)</li>
 </ul>
