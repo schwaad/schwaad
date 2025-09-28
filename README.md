@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with enphasis on Computer Science at the Federal University of Rio Grande do Norte. I also have a technical degree in Information Technology with an emphasis on Game Development<br><br>- 🔭 I’m working as a fellowship holder in the Tutorial Teaching Program of the Computer Science course.<br>- 📚 I'm currently learning Data Science and Machine Learning algorithms with Python (and at least trying with Rust!) and Software Development with Rust.<br>- 💻 My experience consists mostly of FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
+<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with emphasis on Computer Science at the Federal University of Rio Grande do Norte. I also have a technical degree in Information Technology with an emphasis on Game Development<br><br>- 🔭 I’m currently working with AI research, especifically high-performance continuous learning models based on the Adaptive Resonance Theroy. Im also part of the Educational Tutoring Program of the Computer Science Course. <br> - 📚 I'm currently studying Computer Vision with Python as well as continuously learning (no pun intended) about diverse Machine Learning topics. <br>- 💻 My experience consists mostly of Data Analysis and Machine Learning applications with Python and FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
 
 ###
 
