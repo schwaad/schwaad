@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with emphasis on Computer Science at the Federal University of Rio Grande do Norte. I also have a technical degree in Information Technology with an emphasis on Game Development<br><br>- 🧑‍💻 I'm currently working as a AI Developer for Hais Tech, a company focused on developing solutions using AI for hospitals.<br>- 🔭 I’m also working with AI research, especifically high-performance continuous learning models based on the Adaptive Resonance Theory. <br> - 📚 I'm currently studying Natural Language Processing, Computer Graphics, Deep Learning and Reinforcement Learning.<br>- 💻 My experience consists mostly of Data Analysis and Machine Learning applications with Python and FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
+<p align="left">My name is José Ivo, and im an undergraduate on Information Technology with emphasis on Computer Science at the Federal University of Rio Grande do Norte. I also have a technical degree in Information Technology with an emphasis on Game Development<br><br>- 🧑‍💻 I'm currently working as a Jr. AI Developer for Hais Tech, a company focused on developing solutions using AI for hospitals.<br>- 🔭 I’m also working with AI research, especifically high-performance continuous learning models based on the Adaptive Resonance Theory. <br> - 📚 I'm currently studying Natural Language Processing, Computer Graphics, Deep Learning and Reinforcement Learning.<br>- 💻 My experience consists mostly of Data Analysis and Machine Learning applications with Python and FullStack Web Development with Java (Spring Framework), JavaScript (Vue and React) and SQL Databases (Postgres).
 
 ###
 
